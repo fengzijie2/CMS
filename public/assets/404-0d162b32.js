@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,e as c}from"./index-d4928f24.js";const n={},s=c("h1",null,"404---Not Found 404---Not Found",-1),_=[s];function r(a,d){return o(),t("div",null,_)}const u=e(n,[["render",r]]);export{u as default};
